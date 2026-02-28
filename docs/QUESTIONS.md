@@ -1,4 +1,4 @@
-[![Back](https://img.shields.io/badge/⬅️%20Back-20B2AA?style=for-the-badge)](../README.md)
+[![Back](https://img.shields.io/badge/⬅️%20Back-20B2AA?style=for-the-badge)]([../README.md](https://github.com/pfn000/Portfolio-/blob/main/README.md))
 # Frequently Asked Questions
 
 This page contains commonly asked questions about my portfolio and projects.
