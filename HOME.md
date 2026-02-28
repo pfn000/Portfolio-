@@ -7,11 +7,4 @@
 
 # Welcome to My Portfolio
 
-This is the main homepage for my portfolio. Navigate using the links above to explore different sections.
-
-## Navigation
-
-- **[README](./README.md)** - Project overview and introduction
-- **[HOME](./HOME.md)** - This page
-- **[LEGAL](./LEGAL.md)** - Legal information and policies
-- **[QUESTIONS](./QUESTIONS.md)** - Frequently asked questions
+This is the home page for my portfolio. Navigate using the links above to explore different sections.
