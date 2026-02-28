@@ -1,3 +1,4 @@
+[![Back](https://img.shields.io/badge/⬅️%20Back-20B2AA?style=for-the-badge)](https://github.com/pfn000/Portfolio-/blob/main/README.md)
 # Legal Information
 
 This document contains important legal information about this portfolio and its contents.
