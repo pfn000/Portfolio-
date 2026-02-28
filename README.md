@@ -1,6 +1,4 @@
 ### Navigation
 
-[![Legal](https://img.shields.io⚖️-red?style=for-the-badge)](.github/LEGAL.md) 
-[![Questions](https://img.shields.io❓-orange?style=for-the-badge)](./docs/QUESTIONS.md)
-
-[![Documentation](https://img.shields.io)](https://github.com) | [![Legal](https://img.shields.io)](https://github.com) | [![Help](https://img.shields.io)](https://github.com)
+[![Legal](https://img.shields.io/badge/Legal-Policies-red?style=for-the-badge&logo=scaleway&logoColor=white)](.github/LEGAL.md) 
+[![Questions](https://img.shields.io/badge/Questions-Ask%20Me-orange?style=for-the-badge&logo=github&logoColor=white)](./docs/QUESTIONS.md)
