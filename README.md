@@ -1,3 +1,3 @@
 Navigation
 
-[🏠 Home](./HOME.md) | [⚖️ Legal](./LEGAL.md) | [❓ Questions](./docs/QUESTIONS.md)
+[🏠 Home](.README.md) | [⚖️ Legal](.github/LEGAL.md) | [❓ Questions](./docs/QUESTIONS.md)
