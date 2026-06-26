@@ -153,8 +153,8 @@ Exserice Phys TO Communications 2019 - 2021 [ COVID 19 ]
 
 
 **EmmiCO** `Fiverr Contracts & Commisions`|  Pittsburgh, PA REMOTE **Feb 2020 - May 2023** 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/96f0c6ea-da4b-4d5c-b994-99c4c0e95482" />
 
-[EmmiCO Logo](https://media.licdn.com/dms/image/v2/D4E0BAQHIs5gJlDZSqg/company-logo_200_200/company-logo_200_200/0/1738395075491?e=2147483647&v=beta&t=shV7469HKiapsdIn2-8AkwkoF6JhV9SwlBLy8crYtws)
 
 A self established company built by Emmi_Official aka Saidie Quinn Newara ( EmmiCO & EmmiCO Systems & EmmiCO Studios)
 Source | https://www.linkedin.com/company/emmico/
