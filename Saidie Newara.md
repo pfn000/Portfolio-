@@ -5,11 +5,13 @@ She/Her |  28 years old | Feb 20th, 1998
 email `official_emmi@outlook`, Phone `+1 (724) 831-3809`
 
 
-**Code Development** | Resonite [ Freelance & Dev Volunteer ]  **Nov 2022 - Jan 2025**
+**Code Development** | Resonite [ `Freelance & Dev Volunteer` ]  **Nov 2022 - Jan 2025**
 
 ![ Resonite Logo ](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwiki.resonite.com%2FResonite_Logo&ved=0CBYQjRxqFwoTCLDQz_WapZUDFQAAAAAdAAAAABAG&opi=89978449)
 
-Privately Worked with Frux [ © Yellow Dog Man Studios s.r.o. ] [ https://www.linkedin.com/company/yellowdogman/ ] helped develop and migrate their Game Engine Graphics and Logic code called "ProtofluX" to "LogiX". My impact was with prototyping, coding, troubleshooting, private colaberation, helped and delt with legal licensied code. I also help permote LogiX amd helped tutor and train and mentor future team and moderators. Run off an open CALL vn-sention push chain when pushing patches and testing. privately assisted in C# and Game development with open-ended co work. not directly contracted, but worked with team during transition period from one VR socal Platform to another fully private independent VR Socal Platform.
+Privately Worked with FruX`√` helped develop and migrate their Game Engine Graphics and Logic code called "ProtofluX" to "LogiX". My impact was with prototyping, coding, troubleshooting, private colaberation, helped and delt with legal licensied code. I also help permote LogiX amd helped tutor and train and mentor future team and moderators. Run off an open CALL vn-sention push chain when pushing patches and testing. privately assisted in C# and Game development with open-ended co work. not directly contracted, but worked with team during transition period from one VR socal Platform to another fully private independent VR Socal Platform.
+
+**√** | `[ © Yellow Dog Man Studios s.r.o. ] [ https://www.linkedin.com/company/yellowdogman/ ]` 
 
 Skills | `ProtofluX`, `Coding`, `troubleshooting`, `Unity`, `Legal`, `LogiX`, `Debugging`,`communications`,`GitHub`,`Colaboration`, `Game development`, `testing`, `concepting`, `permoting`, `guiding`, `training`, `Python`, `perpitary Code`
 
