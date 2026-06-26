@@ -17,8 +17,8 @@ Skills | `ProtofluX`, `Coding`, `troubleshooting`, `Unity`, `Legal`, `LogiX`, `D
 --
 
 **Non-CDL Local Delivery Truck Driver** Paragon Foods - Sysco | **Feb 2023 - Jul 2024**
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/b3813970-e45b-46dc-a658-d2c75a756eb6" />
 
-![](https://play-lh.googleusercontent.com/WFlEPJZG0jNPMoBNuD2af0SMUcdhVedPiNJcNLZAOXD_2pBy5H_OVKr76o6T_6CIlw7r9esyjrIMxkaGV0Qfdg=w240-h480-rw)
 
 Provide technical, customer relations, and personnel management for major programs and projects. Runs routes efficiently, meeting or exceeding designated route times Unload product from trailer, by hand or dolly (hand cart), and place in designated customer storage areas. May include transporting product down ramps, stairs, or docks, in all weather conditions. Frequently lift, push, or move product that weighs 1-75 lbs, up to 100lbs; Frequently reach up to 72” to stack and unstack pallets and dollies; and receiving items from trailer. Calls in when a customer does not receive their entire order or is short from inventory on list. Handles company equipment such as pallet jacks, and electric jacks, dollies, gate lifts, and follows written driver safety rules, and performs pre-trip inspections every route. Performs all pre-trip and post-trip responsibilities in accordance with PA DOT (Department Of Transactions) regulations and Sysco Policies and procedures. Driven in multiple weather conditions as well as performed in dark and poor visibility and made complex driving and parking maneuvers in tight spaces.
 
@@ -28,7 +28,8 @@ Skills | `LTL Shipping`, `Customer Returns`, `Route Optimization`
 
 **Prepared Foods Associate** Giant Eagle, Inc. | **Oct 2023 - Dec 2023**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Giant_Eagle_logo.svg/960px-Giant_Eagle_logo.svg.png?_=20210115033627)
+<img width="960" height="915" alt="image" src="https://github.com/user-attachments/assets/26630de9-7ca5-4da5-9257-9cfab5b5f42d" />
+
 
 Review personal hygiene requirements with prepared foods hand washing wearing gloves & a hat Insure proper routine for food and safety Proper weighing of food Routine temperature checks the thermometer and probing product Provided proper code date procedures Insured stocking of items within the prepared foods such as merchandising and kitchen Provided customer service Cashier Phone orders and fulfillment Direct customer services Alcoholic beverages via certified PA restaurant alcohol serving license Responsible for closing department and properly putting food away within stored temperatures
 
@@ -38,7 +39,8 @@ Skills | `Alcohol Licensing 2026`, `Food Prep`, `Food safety & handling`
 
 **Technician** [ *seasonal* ] Perfect Power Wash | **May 2023 - Aug 2023**
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPV41fnHevPqWZMsau-hljvdRc2X4ZpThvcg&s)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/88a75629-a614-4adc-b0ae-33e4aea4b9ae" />
+
 
 Power washed walls, treated roofs, concreate driveways and walkways, and fences Pull inventory and supplies and load truck for daily services Setup power washing equipment Deliver power washing services to commercial & residential customers Navigated light small box truck through urban, residential and interstate traffic
 
@@ -48,7 +50,8 @@ Skills | `Customer support`, `Sales`, `Pressure Washing`, `Driveways`, `troubles
 
 **Appliance Retailer** The Home Depot | **Mar 2023 - Apr 2023**
 
-![](https://corporate.homedepot.com/sites/default/files/image_gallery/THD_logo.jpg)
+<img width="5039" height="5039" alt="image" src="https://github.com/user-attachments/assets/8eb1aa13-dfab-4222-8e40-f888f1ace084" />
+
 
 Assist customers in the selection of large and small applications Locate product and adjust product displays
 
@@ -58,7 +61,9 @@ Skills | `Product Display`, `Customer support`, `A&Q Support`, `Phone Calls`, `T
 
 **Mobile Expert** OSL Retail Services | **Jun 2022 - Dec 2022**
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCljkUpCSvtr-eLZzudrKNihqftxXcfzMRA&s)
+
+<img width="321" height="157" alt="image" src="https://github.com/user-attachments/assets/1e05f3f4-bd99-4ef7-8ac4-38e410b1f172" />
+
 
 Ensure that customers have a positive shopping experience and can find the products they need Educate potential buyers on mobile devices & carrier plans Sell mobile phones, accessories, cellular carrier plans and prepaid cards Monitor and recommend device inventory Register, setup and troubleshoot phones and plans
 
@@ -68,7 +73,8 @@ Skills | `Working with Move-Up Buyers`, `Inventory Management`, `Mobile Device T
 
 **General Utilities Associate & Food Prep** Applebee's Neighborhood Grill + Bar | **Jul 2020 - Jun 2022**
 
-![](https://p1.hiclipart.com/preview/217/685/265/family-tree-restaurant-food-chophouse-restaurant-american-cuisine-cooking-french-fries-applebees-grillbar-png-clipart.jpg)
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ea997fde-27cb-4fed-88a7-eb68b762ea65" />
+
 
 Responsible for a clean and orderly environment for my coworkers according to Safe-serve protocols Responsible for cleaning plates and cutlery, as well as maintaining plate location and access Managing, preparing food and accounting for supplies and organized food placement and quantity
 
@@ -78,7 +84,8 @@ Skills | `Food Preparation`, `Food & Beverage Managenment`, `Invotory Managment`
 
 **Car Detailor** Mr. Magic [ `steal city wash `] | **~ Apr 2026 - Apr 2026**
 
-![Mr. Magic Logo](https://content.app-sources.com/s/809864015802832531/uploads/Images/mr-magic-logo-web-6715686.png?format=webp)
+<img width="400" height="254" alt="image" src="https://github.com/user-attachments/assets/1611283a-f8bc-43de-b81c-2dc1fa92942e" />
+
 
 I washed cars and sold memberships and told about deals and discounts, assisted customers with loading their car into wash system way.
 
