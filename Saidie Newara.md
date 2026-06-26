@@ -167,6 +167,7 @@ Tools I used|
 - Blender 2019 -2024
 - Meta Quest SDK 2019
 - Meta Quest 3 PRO Headset
+
 Skills | `Coding`, `3D Modeling`, `Scritping`, `troubleshooting`, `custormer support`, `commission`, `contracting`, `Meta DEV Technition`
 
 --
