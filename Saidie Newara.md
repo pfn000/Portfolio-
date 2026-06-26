@@ -307,21 +307,6 @@ Emmi_Official, also known as Saidie Quinn Newara, is a VTuber and digital conten
 - **Official Website:** emmiofficial.univer.se
 - **Video Platforms:** YouTube channel for long-form content and project updates
 
-`Emmi_Official, also known as Saidie Quinn Newara, is a VTuber and digital content creator recognized for designing VRChat worlds such as Heaven's Gate and Cuddle Cove. She is the founder of EmmiCO, a company through which she manages her social media presence and virtual merchandise.`
-
-Digital Presence and Content Creation
-Emmi_Official maintains a diverse portfolio of interactive content across several major platforms:
-
-    VRChat & Virtual Worlds: She is highly active in the VRChat community, both as a VTuber and a world creator. Her notable projects include Heaven's Gate, described as a peaceful exploration space, and Cuddle Cove, which features interactive elements like video players and light dimming for social gatherings.
-    Social Media & Streaming: You can find her live streaming on Twitch or sharing short-form video content on TikTok. She also manages a Discord community for fans to interact.
-    Business Operations: Her creative work is formalized under her company, EmmiCO Systems, which was founded in 2020 and is based in Pittsburgh, PA.
-
-Official Links and Resources
-Because several creators use similar names, these links help verify her official profiles:
-
-    Unified Link Hubs: Her primary aggregators are found on Beacons.ai and Linktree.
-    Official Website: She operates a dedicated site at emmiofficial.univer.se, which showcases her monetization strategies and creative focus.
-    Video Platforms: Her YouTube channel serves as a repository for her long-form content and project updates.
 
 </td>
 </tr>
