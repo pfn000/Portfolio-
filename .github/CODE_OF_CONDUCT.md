@@ -1,32 +1,65 @@
-# Contributor Covenant Code of Conduct
+---
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## 🧠 XR / Spatial Computing
 
-## Our Standards
-Examples of behavior that contributes to a positive environment for our community include:
+### FocalOS XR — Spatial Interaction System (Concept)
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+FocalOS XR is a spatial computing operating system concept designed for XR glasses. Instead of traditional app-based interfaces, it explores a **spatial-first interaction model** where digital tools exist as persistent objects in the physical environment.
 
-Examples of unacceptable behavior by participants include:
+The goal is to move beyond “floating windows in VR” and design a true **environment-native operating system**.
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+### 🧩 Core Idea
+FocalOS treats space itself as the interface:
+- UI elements exist as anchored spatial objects
+- Interaction is driven by gaze, gesture, and proximity
+- Context persists in physical locations rather than app states
 
-## Enforcement Responsibilities
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+---
 
-## Enforcement Procedures
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. 
+### 🎯 Problem
+Most XR systems still replicate desktop/mobile metaphors:
+- Cluttered floating UIs
+- High cognitive load navigation
+- Weak spatial memory models
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+FocalOS explores a shift toward:
+> “inhabiting interfaces instead of opening apps”
 
-## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4.
+---
+
+### 🧠 Design Principles
+- Spatial-first UI (no traditional windows)
+- Minimal cognitive overload through depth hierarchy
+- Gesture-native interaction (pinch, drag, scale, rotate)
+- Persistent spatial memory (tools remain where placed)
+
+---
+
+### ✋ Interaction Model
+- **Gaze:** Focus + selection lock
+- **Hand Gestures:** Manipulate objects in 3D space
+- **Space:** Memory layer for persistent UI placement
+
+---
+
+### 🏗 System Architecture
+- Perception Layer → Eye tracking, hand tracking, SLAM mapping
+- Interaction Layer → Gesture + gaze processing engine
+- Spatial UI Layer → Floating/anchored UI objects and widgets
+
+---
+
+### 📌 Example Flow
+A user joins a call while working:
+- Notification appears in peripheral space
+- Pinch expands call window into 3D space
+- Window anchors near workspace area
+- Files are dragged directly into shared spatial context
+- Background UI fades without losing state
+
+---
+
+### 🚧 Design Challenges
+- Preventing spatial UI clutter
+- Reducing gesture fatigue
+- Managing cognitive load across 3D environments
